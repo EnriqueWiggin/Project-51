@@ -21,7 +21,7 @@ font-weight: 400;
 color: white;
 }
 body{
-    margin:0px
+    margin:0px;
     background-color: whitesmoke;
 }
 .grid{
@@ -38,8 +38,8 @@ body{
     
     border-radius: 20px;
     background-color: white;
-    padding:30px
-    margin:25px 
+    padding:30px;
+    margin:25px;
     width:310px;
     font-family: fantasy;
     
